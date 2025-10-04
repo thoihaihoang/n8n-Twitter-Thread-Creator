@@ -224,15 +224,6 @@ The system includes comprehensive error handling:
 
 This project is open source. Please check the repository for license details.
 
-## Socials
-
-Created & maintained by Soham Mitra (SohamXYZ)
-
-- 🌐 Website: [https://sohamxyz.com](https://sohamxyz.com)
-- 📧 Email: soham@sohamxyz.com
-- 💬 Discord: sohamxyz
-- 🧠 n8n/automation/dev inquiries welcome!
-
 ---
 
 _Transform any content into engaging Twitter threads with the power of AI automation!_
